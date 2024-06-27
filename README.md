@@ -15,14 +15,14 @@
 <h1>Prerequisites</h1>
 <p>To run this project, you need a web browser (Chrome, Firefox, Safari, etc.) and a text editor if you want to modify the code (VS Code, Sublime Text, etc.).</p>
 <h1>Installation</h1>
-<p> <b></b>1: Clone the Repository:<b> git clone https://github.com/ahsanbasharat4385/Scientific-Calculatorr.git
-</b></p>
+<p> <b>1: Clone the Repository:</b> git clone https://github.com/ahsanbasharat4385/Scientific-Calculatorr.git
+</p>
 <p><b>2: Navigate to the Project Directory:</b> cd Sicientific-Calculator</p>
 <p><b>3: Open "index.html" in Your Browser:</b> Double-click the index.html file, or open it using your browser's "Open File" option.</p>
 
 # Contact
-<h1>Name: Ahsan Basharat</h1>
-<h1>Phone Number: +923014385464</h1>
-<h1>Gmail: ahsanbasharat4385@gmail.com</h1>
-
+<p> <b>Name: Ahsan Basharat</b></p>
+<p><b>Contact No.: +923014385464</b></p>
+<p><b>Gmail: ahsanbasharat4385@gmail.com</b></p>
+  
 # Project Link: https://ahsanbasharat4385.github.io/Scientific-Calculator/
