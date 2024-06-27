@@ -17,7 +17,7 @@
 <h1>Prerequisites</h1>
 <p>To run this project, you need a web browser (Chrome, Firefox, Safari, etc.) and a text editor if you want to modify the code (VS Code, Sublime Text, etc.).</p>
 <h1>Installation</h1>
-<p> <b>1: Clone the Repository:</b> git clone https://github.com/ahsanbasharat4385/Scientific-Calculatorr.git
+<p> <b>1: Clone the Repository:</b> git clone https://github.com/ahsanbasharat4385/Scientific-Calculator.git
 </p>
 <p><b>2: Navigate to the Project Directory:</b> cd Sicientific-Calculator</p>
 <p><b>3: Open "index.html" in Your Browser:</b> Double-click the index.html file, or open it using your browser's "Open File" option.</p>
