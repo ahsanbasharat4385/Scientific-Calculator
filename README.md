@@ -1,3 +1,5 @@
+<p> <b>Github Live Link:</b>https://ahsanbasharat4385.github.io/Scientific-Calculator/</p>
+
 # Scientific Calculator
 <p>Welcome to the Scientific Calculator project! This calculator is designed to handle a wide range of mathematical operations, from basic arithmetic to more complex scientific functions. The calculator is built using HTML, CSS, and JavaScript, providing a sleek and user-friendly interface.</p>
 
